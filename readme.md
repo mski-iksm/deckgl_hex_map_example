@@ -1,4 +1,4 @@
-# deck.gl ~hex map example~
+# deck.gl hex map example
 
 * Example of viewing hex map using deck.gl.
 * Learn more about deck.gl at https://deck.gl/#/
